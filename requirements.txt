@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pyodbc
+azure-storage-blob
